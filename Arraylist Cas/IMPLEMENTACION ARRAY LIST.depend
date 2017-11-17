@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1510591549 source:c:\users\joako\desktop\practica parcial\implementacion array list\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1510015910 c:\users\joako\desktop\practica parcial\implementacion array list\arraylist.h
+
+1510591549 c:\users\joako\desktop\practica parcial\implementacion array list\funciones.h
+
+1510595266 source:c:\users\joako\desktop\practica parcial\implementacion array list\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1510508097 source:c:\users\joako\desktop\practica parcial\implementacion array list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1510595266 source:c:\users\joako\desktop\tp4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1510015910 c:\users\joako\desktop\tp4\arraylist.h
+
+1510591549 c:\users\joako\desktop\tp4\funciones.h
+
+1510508097 source:c:\users\joako\desktop\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+
